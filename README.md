@@ -22,11 +22,11 @@ Key questions answered:
 # Q&A
 Give me a question about this video: 
 Give me a question about this video: what's the advantage of using genie impurity in decition tree?
-
 Answer:  The provided context does not give information about the advantages of using genie impurity in decision trees.
 Answering took 4.44 seconds
-Give me a question about this video: what's the advantage of using genie impurity in decition tree? if not show in the content, can you still tell?
 
+Give me a question about this video: 
+what's the advantage of using genie impurity in decition tree? if not show in the content, can you still tell?
 Answer:  The content provided does not explicitly mention the advantages of using genie impurity in decision trees. However, I can still tell you that genie impurity is a measure used to determine the best split in decision trees by evaluating the purity of a node. The lower the genie impurity, the better the split. It helps to create more accurate and efficient decision trees.
 Answering took 30.99 seconds
 ```
