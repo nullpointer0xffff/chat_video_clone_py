@@ -1,0 +1,22 @@
+name: chatvideo
+channels:
+  - defaults
+  - pytorch-nightly
+dependencies:
+  - python=3.8
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+    - Flask==2.1.1
+    - Flask-SocketIO==5.3.3
+    - eventlet==0.33.0
+    - dnspython==2.1.0
+    - openai==0.27.0
+    - transformers
+    - nltk==3.8.1
+    - langchain==0.0.180
+    - youtube-transcript-api==0.6.0
+    - tiktoken==0.4.0
+    - faiss-cpu==1.7.4
