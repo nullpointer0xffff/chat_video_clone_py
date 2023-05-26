@@ -15,7 +15,7 @@ import json
 
 text_splitter = TokenTextSplitter(chunk_size=2500)
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = <YOUR_API_KEY>
 openai.api_key = OPENAI_API_KEY
 
 # MODEL_NAME="gpt-3.5-turbo"
